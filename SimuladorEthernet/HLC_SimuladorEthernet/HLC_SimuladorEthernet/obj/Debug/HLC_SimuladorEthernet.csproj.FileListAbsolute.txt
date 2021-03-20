@@ -1,0 +1,7 @@
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\obj\Debug\HLC_SimuladorEthernet.csprojAssemblyReference.cache
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\obj\Debug\HLC_SimuladorEthernet.csproj.CoreCompileInputs.cache
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\bin\Debug\HLC_SimuladorEthernet.exe.config
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\bin\Debug\HLC_SimuladorEthernet.exe
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\bin\Debug\HLC_SimuladorEthernet.pdb
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\obj\Debug\HLC_SimuladorEthernet.exe
+C:\Users\CRAMi\source\repos\HLC_SimuladorEthernet\HLC_SimuladorEthernet\obj\Debug\HLC_SimuladorEthernet.pdb
